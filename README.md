@@ -1,6 +1,6 @@
 # CNT4007 P2P File Sharing Project (BitTorrent)
 
-A BitTorrent-like peer-to-peer (P2P) file sharing protocol implementation in Python for UF CNT4007 (Computer Network Fundamentals).
+A BitTorrent-like peer-to-peer (P2P) file sharing protocol implementation in Python for UF CNT4007.
 
 ## Team Members
 - **Sam Morsics** - UFID: 85201061
